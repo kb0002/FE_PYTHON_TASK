@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_cors
+mysql-connector-python
+werkzeug
+kafka-python
+cryptography
+gunicorn
